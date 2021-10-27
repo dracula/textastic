@@ -1,6 +1,6 @@
-# Dracula for [Textastic](https://http://textasticapp.com)
+# Dracula for [Textastic](https://textasticapp.com)
 
-> A dark theme for [Textastic](http://link-to-x.com).
+> A dark theme for [Textastic](https://textasticapp.com).
 
 ![Screenshot](./screenshot.png)
 
